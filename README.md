@@ -4,7 +4,7 @@ checkpoint
 Simple share plugin for Facebook, Twitter, Google+ and Linkedin.
 
 ## Usage
-Download the [minified library](https://raw.github.com/jonobr1/two.js/master/build/two.min.js) and include it in your html.
+Download the [minified library](https://github.com/urazkines/checkpoint/blob/master/checkpoint.min.js) and include it in your html.
 
 ```html
 <script src="js/checkpoint.min.js"></script>
