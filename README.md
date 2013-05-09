@@ -10,7 +10,7 @@ Download the [minified library](https://raw.github.com/jonobr1/two.js/master/bui
 <script src="js/checkpoint.min.js"></script>
 ```
 
-Here is boilerplate html in order to draw a spinning rectangle in checkpoint.js:
+Here is boilerplate html for checkpoint.js:
 
 ```html
 <!doctype html>
